@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CameraTouch": {
+      "commandName": "Project",
+      "commandLineArgs": "--info-statistics -s -r \"E:\\raw\\dslr\\2021-09-13\" "
+    }
+  }
+}
